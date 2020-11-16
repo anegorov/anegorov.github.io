@@ -1,7 +1,11 @@
-name: Andrey
-# Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+name: Andrey Egorov
+description: QA Expert
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 theme: jekyll-theme-minimal
+
+footer-links:
+  email: a-n-egorov@yandex.ru
+  github: anegorov
+  linkedin:
+  youtube: # channel/<your_long_string> or user/<user-name>
